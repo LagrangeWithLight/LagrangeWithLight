@@ -1,1 +1,10 @@
+# LagrangeWithLight
+## Stats
+![LagrangeWithLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=LagrangeWithLight)
+## Intro
+Hi there, it's **LagrangeWithLight** here. If you're also from SHOU, you probably know me by the handle "**Aer**".
 
+Computer Science isn't my major, but I do have an interest in the field.
+Personnaly, I use Python for my small projects, despite not really good at doing so.
+
+I also play "[Magic Girl Witch Trials (魔法少女ノ魔女裁判)](https://manosaba.com/)" and [Minecraft](https://www.minecraft.net/).
