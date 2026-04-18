@@ -1,6 +1,6 @@
 # LagrangeWithLight
 ## Stats
-![LagrangeWithLight's GitHub stats](https://github-readme-stats.vercel.app/api?username=LagrangeWithLight)
+![LagrangeWithLight's GitHub stats](https://ghstats.kxl.chat/api?username=LagrangeWithLight)
 ## Intro
 Hi there, it's **LagrangeWithLight** here. If you're also from SHOU, you probably know me by the handle "**Aer**".
 
