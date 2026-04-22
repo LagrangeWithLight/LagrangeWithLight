@@ -2,7 +2,7 @@
 ## Stats
 ![LagrangeWithLight's GitHub stats](https://ghstats.kxl.chat/api?username=LagrangeWithLight)
 ## Intro
-Hi there, it's **LagrangeWithLight** here. If you're also from SHOU, you probably know me by the handle "**Aer**".
+Hi there, it's **LagrangeWithLight** here. You probably know me by the handle "**Aer**" also.
 
 Computer Science isn't my major, but I do have an interest in the field.
 Personnaly, I use Python for my small projects, despite not really good at doing so.
